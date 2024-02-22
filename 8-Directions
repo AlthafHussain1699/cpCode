@@ -1,2 +1,4 @@
-int row[] = {-1, 0, 1, 0};
-int col[] = {0, 1, 0, -1};
+static int row[] = {-1, 0, 1, 0};
+static int col[] = {0, 1, 0, -1};
+static int row[] = {-1, 0, 1, 0, -1, 1, 1, -1};
+static int col[] = {0, 1, 0, -1, 1, 1, -1, -1};
